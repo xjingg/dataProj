@@ -1,0 +1,11 @@
+.main {
+  display: flex;
+}
+
+.main-left {
+  flex: 40%;
+}
+
+.main-right {
+  padding-right: 300px;
+}
